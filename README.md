@@ -31,6 +31,11 @@
 - Docker & 容器化
 - 数据库系统（CMU 15445 实验）
 
+### Email
+- 2418915471@qq.com
+- 230702141013@stu.nepu.edu.cn
+- aubreybmtjw9omw6fhyed@gmail.com
+
 ---
 
 <p align="center">
